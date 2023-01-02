@@ -1,0 +1,340 @@
+@media(max-width:1300px){
+    .collections{
+        flex-wrap: wrap;
+    }
+    .tways{
+        flex-wrap: wrap;
+    }
+    .trays__title{
+        max-width: 615px;
+    }   
+    .main__title{
+        font-size: 37px;
+        line-height: 52px;
+    }
+}
+@media(max-width:1010px){
+    .company__p{
+        font-size: 16px;
+        max-width: 394px;
+    }
+    .company__h1{
+        font-size: 37px;
+    }
+}
+@media(max-width:935px){
+    .main__title{
+        font-size: 31px;
+        line-height: 40px;
+        max-width: 330px;
+    }
+    .company{
+        flex-wrap: wrap;
+    }
+    .company__h1{
+        text-align: center;
+    }
+    .company__p{
+        text-align: center;
+    }
+    .main__quashon_item{
+        font-size: 12px;
+        line-height: 45px;
+    }
+    .main__quashon{
+        max-width: 159px;
+        margin-bottom: 21px;
+        margin-top: 18px;
+    }
+}
+@media(max-width:800px){
+    .main__title{
+        font-size: 24px;
+        line-height: 33px;
+        max-width: 330px;
+    }
+    .program__text_title{
+        font-size: 28px;
+    }
+}
+@media(max-width:745px){
+    .end__ul{
+        flex-direction: column;
+        gap: 18px;
+    }
+    .meet__p{
+        font-size: 16px;
+        max-width: 528px;
+    }
+}
+@media(max-width:680px){
+    .trays__title{
+        max-width: 428px;
+    }
+    .trays__item_p{
+        font-size: 15px;
+        max-width: 330px;
+    }
+    .collections__title {
+        padding: 0 35px;
+    }
+    .tways__title{
+        max-width: 388px;
+    }
+    .collections__title{
+        max-width: 387px;
+    }
+    .reviews__title{
+        max-width:386px;
+    }
+    .pam{
+        position: relative;
+        left: 70px;
+        width: 65%;
+    }
+    .collectionsv__item_h6{
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .clam {
+        position: relative;
+        left: 68px;
+        width: 65%;
+    }
+}
+@media(max-width:668px){
+    .main__title{
+        font-size: 18px;
+        line-height: 30px;
+        max-width: 330px;
+    }
+    .main__paragraf a{
+        flex-direction: column;
+        gap: 0;
+    }
+    .meet__card_item{
+        padding: 0 15px;
+    }
+    .div{
+        flex-direction: column;
+        gap: 8px;
+    }
+    .program__text_title{
+        font-size: 22px;
+    }
+    .poragrov__text{
+        padding: 35px 30px;
+    }
+}
+@media(max-width:668px){
+    .reviews__item_h6{
+        font-size: 31px;
+    }
+}
+@media(max-width:580px){
+    .main__title {
+        font-size: 15px;
+        line-height: 26px;
+        max-width: 330px;
+    }
+    .main__quashon {
+        max-width: 137px;
+        margin-bottom: 13px;
+        margin-top: 12px;
+    }
+    .main__quashon_item {
+        font-size: 10px;
+        line-height: 36px;
+    }.rem {
+        font-size: 11px;
+        line-height: 16px;
+    }
+}
+@media(max-width:555px){
+    .meet__card_h4{
+        font-size: 10px;
+    }
+    .meet__card_p{
+        font-size: 8px;
+    }
+    .reviews__item_h6 {
+        font-size: 26px;
+    }
+}
+@media(max-width:555px){
+    /* .main__title {
+        font-size: 8px;
+        line-height: 15px;
+        max-width: 330px;
+    } */
+    .main__quashon_item {
+        font-size: 6px;
+        line-height: 23px;
+    }
+    .main__quashon {
+        max-width: 90px;
+        margin-bottom: 13px;
+        margin-top: 12px;
+    }
+    .rem {
+        font-size: 9px;
+        line-height: 14px;
+    }
+    .trays__icon3 {
+        position: absolute;
+        top: -3%;
+        left: -6%;
+        width: 12%;
+    }
+    .tways__item_h6{
+        font-size: 27px;
+    }
+    .trays__item_h6 {
+        font-size: 27px;
+    }
+    .tways__title {
+        max-width: 280px;
+    }
+    .trays__title {
+        max-width: 282px;
+    }    
+    .collections__title {
+        max-width: 316px;
+    }
+    .reviews__title {
+        max-width: 316px;
+    }
+}
+@media(max-width:520px){
+    .main__quashon {
+        max-width: 116px;
+        margin-bottom: 13px;
+        margin-top: 12px;
+    }
+    .main__quashon_item {
+        font-size: 8px;
+        line-height: 30px;
+    }
+    .main__title {
+        font-size: 11px;
+        line-height: 18px;
+        max-width: 330px;
+    }
+    .company__h1 {
+        font-size: 31px;
+    }
+    .program__text_title {
+        font-size: 17px;
+    }
+    .tviter__img {
+        margin-left: 147px;
+    }
+    .app__text_p {
+        max-width: 285px;
+        margin-top: 15px;
+        font-size: 11px;
+        line-height: 19px;
+    }
+    .app__text_p2 {
+        font-size: 11px;
+        line-height: 21px;
+    }
+    .app__time {
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    .tviter__img_app {
+        margin-left: 112px;
+    }   
+}
+@media(max-width:500px){
+    .statistics__text_title{
+        font-size: 28px;
+    }
+}
+@media(max-width:450px){
+    .main {
+        gap: 20px;
+    }
+    .end__h6{
+        font-size: 37px;    
+    }
+    .inform__div a{
+        padding: 11px;
+    }
+    .inform__h5{
+        font-size: 11px;
+    }
+    .inform__p{
+        font-size: 11px;
+    }
+}
+@media(max-width:400px){
+    .poragrov__text {
+        padding: 35px 0px;
+    }
+    .tviter__img_app {
+        margin-left: 97px;
+    }
+    .tviter__img {
+        margin-left: 125px;
+    }
+    .company__h1 {
+        font-size: 28px;
+    }
+    .meet__item{
+        font-size: 37px;
+    }
+    .meet__card_item {
+        padding: 0 5px;
+    }
+    .app {
+        padding: 8px 22px;
+    }
+    .app__h1 {
+        font-size: 13px;
+    }
+    .app__p {
+        font-size: 12px;
+    }
+    .app__text_p {
+        max-width: 231px;
+        margin-top: 10px;
+        font-size: 9px;
+        line-height: 15px;
+    }
+    .app__text {
+        gap: 3px;
+    }
+    .app__text_p2 {
+        font-size: 9px;
+    }
+    .app__time {
+        margin-top: 0px;
+        font-size: 9px;
+    }
+}
+@media(max-width:375px){
+    .collections__title {
+        padding: 0 36px;
+    }
+    .statistics__text_title{
+        font-size: 24px;
+    }
+    
+    .statistics__text {
+        padding: 65px 6px;
+        padding-bottom: 25px;
+    }
+}
+@media(max-width:360px){
+    .main {
+        padding: 37px 32px;
+    }
+    .meet__card_p {
+        font-size: 7px;
+    }
+    .meet__card_h4 {
+        font-size: 8px;
+    }
+}
